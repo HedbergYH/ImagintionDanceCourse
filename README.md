@@ -1,2 +1,2 @@
 # ImagintionDanceCourse
-Danskurs agilt projekt
+Danskurs agilt projekt för Dhana, Johan, Mats, Didrik och Lenni
