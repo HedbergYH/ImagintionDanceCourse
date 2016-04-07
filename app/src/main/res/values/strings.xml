@@ -1,5 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">ImaginationDance</string>
+=======
+    <string name="app_name">DanceCourseImagination</string>
+>>>>>>> origin/master
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
